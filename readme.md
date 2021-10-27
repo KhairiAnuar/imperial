@@ -17,3 +17,5 @@
 - http://localhost/imperial/public/
 
 Thats all~ 
+
+See live demo: [here](https://kerita-rental.herokuapp.com)
