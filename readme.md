@@ -9,7 +9,7 @@
 - cd to /pathto/xampp/htdocs/imperial
 - composer install
 - npm install
-- Make copy of .env file
+- Make copy of .env file in folder 
 - php artisan key:generate
 ---
 - Compare with the APP_KEY inside .env file
