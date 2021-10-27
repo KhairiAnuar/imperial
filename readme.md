@@ -11,7 +11,7 @@
 - npm install
 - Make copy of .env file
 - php artisan key:generate
-
+---
 - Compare with the APP_KEY inside .env file
 - Open xampp => Turn on Apache and MySql
 - http://localhost/imperial/public/
